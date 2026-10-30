@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/keiin",
  "yomi": "けいいん",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "元治元年（1864）以後",
+  "author": "渡忠秋（1811〜1881）",
+  "desc": "桂園派の歌人渡忠秋の家集。元治元年の兵火で稿本が焼けたため、刊本などに見える歌や人々の記憶に残る歌を、同門の友が集めて世に広めたと序にいう。"
+ },
  "editions": [
   {
    "pid": "993388",
